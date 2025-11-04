@@ -1,0 +1,8 @@
+body {
+    background-color: #8C9E6E;
+    color:#FFFFFD;
+}
+
+.card-frame, .card-number-frame {
+    height: 40px;
+}
